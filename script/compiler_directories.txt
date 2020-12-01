@@ -4,4 +4,4 @@
 
 export ARDMK_DIR=$HOME"/compiler/Arduino-Makefile-master"
 export ARDUINO_DIR="/Applications/Arduino.app/Contents/Java"
-export ARDUINO_PACKAGE_DIR=$HOME"/Library/Arduino15/packages"source ~/.zsh_plugins.sh
+export ARDUINO_PACKAGE_DIR=$HOME"/Library/Arduino15/packages"
