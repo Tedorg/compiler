@@ -1,0 +1,7 @@
+# export ARDUINO_DIR=$HOME"/Applications/Arduino.app/Contents/Java"
+# export ARDMK_DIR=$HOME"/Library/Mobile\ Documents/com~apple~CloudDocs/compiler/Arduino-Makefile-master"
+# export ARDUINO_PACKAGE_DIR=$HOME"/Library/Arduino15/packages"
+
+export ARDMK_DIR=$HOME"/compiler/Arduino-Makefile-master"
+export ARDUINO_DIR="/Applications/Arduino.app/Contents/Java"
+export ARDUINO_PACKAGE_DIR=$HOME"/Library/Arduino15/packages"source ~/.zsh_plugins.sh
